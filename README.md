@@ -12,7 +12,7 @@ To get up and running quickly, use
 docker run -d -p 4326:4326 -p 4327:4327 axothic/rcon
 ```
 
-With that you can follow the [regular instructions](https://github.com/lacaulac/rcon-web-admin#open-in-browser) and
+With that you can follow the [regular instructions](https://github.com/brainfoolong/rcon-web-admin#open-in-browser) and
 access the web UI at http://YOUR_DOCKER_HOST:4326
 
 ## Options
